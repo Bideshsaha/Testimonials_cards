@@ -1,4 +1,5 @@
 import React from "react";
+import Card from "./Card";
 
 const Testimonials = (props) => {
     let reviews = props.reviews;
